@@ -47,5 +47,5 @@ A programming language is a way to give instructions to a computer. It helps us 
 
 ---
 
-> 🚀 Next Lecture: Introduction to Python Language
+> 🚀 Next Lecture: [Introduction to Python Language](https://github.com/sachindaksh01/Python/blob/main/02%20python_intro_notes.md)
 
