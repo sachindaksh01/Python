@@ -99,5 +99,5 @@ print(type(x))   # <class 'int'>
 
 ---
 
-> 🎯 Next Lecture: Type Conversion in Python — How to switch between data types
+> 🎯 Next Lecture: [05 Type Conversion in Python — How to switch between data types](https://github.com/sachindaksh01/Python/blob/main/05%20type_conversion.md)
 
