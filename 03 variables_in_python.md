@@ -97,5 +97,5 @@ print("Updated Score:", score)
 
 ---
 
-🧭 **Next Lecture:** Data Types in Python — Learn what kind of data variables can store.
+🧭 **Next Lecture:** [04 Data Types in Python — Learn what kind of data variables can store](https://github.com/sachindaksh01/Python/blob/main/04%20data_types_in_python.md).
 
