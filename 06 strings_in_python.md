@@ -162,5 +162,5 @@ print("apple".translate(table))  # bpple
 
 ---
 
-> 🎯 Next Lecture: Python Operators — Master arithmetic, comparison, logical, and bitwise operators.
+> 🎯 Next Lecture: [07 Numeric Data types in python](https://github.com/sachindaksh01/Python/blob/main/07%20numeric_data_types.md)
 
