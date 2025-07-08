@@ -129,3 +129,8 @@ print("Five is greater than two.")
 7. Comment out code and check output
 8. Write a multi-line comment about what your program does
 
+
+
+---
+
+🚀 Next Lecture: [Variable in Python](https://github.com/sachindaksh01/Python/blob/main/03%20variables_in_python.md)
