@@ -48,7 +48,8 @@ pi = 3.14
 
 ### 📸 Visual: Variable Concept
 
-&#x20;*A variable storing a value in memory.*
+![image](https://github.com/user-attachments/assets/7f974411-a89a-451d-88a7-491332b85d1e)
+
 
 ---
 
