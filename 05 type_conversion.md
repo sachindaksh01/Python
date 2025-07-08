@@ -116,5 +116,4 @@ print(keys_list)  # Output: ['name', 'age']
 
 ---
 
-> 🎯 Next Lecture: Operators in Python — Learn about arithmetic, comparison, and logical operators.
-
+> 🎯 Next Lecture: [05 String in Python](https://github.com/sachindaksh01/Python/blob/main/06%20strings_in_python.md)
