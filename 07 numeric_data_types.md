@@ -106,5 +106,5 @@ pow(2, 3)      # 8
 
 ---
 
-> 🎯 Next Lecture: Conditional Statements — Learn to control program flow using `if`, `else`, and `elif`
+> 🎯 Next Lecture: [08 List and Method](https://github.com/sachindaksh01/Python/blob/main/07%20numeric_data_types.md)
 
