@@ -154,5 +154,5 @@ student.update({"age": 18, "marks": 92})
 
 ---
 
-> 🎯 Next Lecture: Sets in Python — Handle unordered collections of unique values
+> 🎯 Next Lecture: [Sets in Python](https://github.com/sachindaksh01/Python/blob/main/11%20sets_in_python.md) — Handle unordered collections of unique values
 
