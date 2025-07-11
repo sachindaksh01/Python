@@ -135,5 +135,5 @@ print(val)
 
 ---
 
-> 🎯 Next Lecture: Python Operators – Learn about arithmetic, logical, comparison and more
+> 🎯 Next Lecture: [Boolean and None Types in Python](https://github.com/sachindaksh01/Python/blob/main/12%20boolean_and_none_types.md)
 
