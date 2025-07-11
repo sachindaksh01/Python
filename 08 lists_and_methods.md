@@ -122,5 +122,5 @@ shopping_list.sort()
 
 ---
 
-> 🎯 Next Lecture: Tuples in Python — Learn about fixed, ordered collections.
+> 🎯 Next Lecture: [Tuples in Python — Learn about fixed, ordered collections](https://github.com/sachindaksh01/Python/blob/main/09%20%20Tuple%20and%20Methods.md).
 
