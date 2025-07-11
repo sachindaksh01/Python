@@ -110,5 +110,5 @@ if x is None:
 
 ---
 
-> 🎯 Next Lecture: Python Operators — Dive deeper into arithmetic, logical, assignment and bitwise operators!
+> 🎯 Next Lecture: [Python Operators](https://github.com/sachindaksh01/Python/blob/main/13%20arithmetic_and_assignment_operators.md) — Dive deeper into arithmetic, logical, assignment and bitwise operators!
 
