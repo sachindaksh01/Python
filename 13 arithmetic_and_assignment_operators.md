@@ -95,5 +95,5 @@ print(x)  # 6
 
 ---
 
-> 🎯 Next Lecture: Logical and Bitwise Operators — Learn how Python compares and manipulates bits
+> 🎯 Next Lecture: [Logical and Bitwise Operators](https://github.com/sachindaksh01/Python/blob/main/14%20other%20Operators.md) — Learn how Python compares and manipulates bits
 
