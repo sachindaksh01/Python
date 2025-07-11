@@ -148,5 +148,5 @@ print(len(letters))  # Output: 3
 
 ---
 
-> 🎯 Next Lecture: Sets in Python — Learn about unordered, unique collections.
+> 🎯 Next Lecture 10 : [Dictionaries in Python](https://github.com/sachindaksh01/Python/blob/main/10%20%20dictionaries_in_python.md) — Learn about unordered, unique collections.
 
