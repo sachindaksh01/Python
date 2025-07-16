@@ -130,14 +130,12 @@ print("123".isdigit())       # True
 
 ---
 
-## 1️⃣2️⃣ Encoding and Translation
+## 1️⃣2️⃣ Length
 ```python
 text = "hello"
-print(text.encode())  # b'hello'
+print(len(text)) # 5
 
-# Translation
-table = str.maketrans("a", "b")
-print("apple".translate(table))  # bpple
+
 ```
 
 ---
