@@ -155,8 +155,7 @@ print(len(text)) # 5
 11. Join a list ["a", "b", "c"] with hyphens.
 12. Find the index of the word "code" in a sentence.
 13. Replace "Java" with "Python" in the sentence "I like Java."
-14. Check if a string is a palindrome.
-15. Convert string "123" to int and validate with isdigit().
+14. Convert string "123" to int and validate with isdigit().
 
 ---
 
