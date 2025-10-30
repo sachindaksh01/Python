@@ -1,7 +1,3 @@
-Sure! Here are **100 practice questions** —
-**50 for `if / elif / else`** and **50 for `for loops`**.
-No answers included — so you can try them yourself.
-If you want answers later, just say **"give answers"**. ✅
 
 ---
 
@@ -157,10 +153,4 @@ If you want answers later, just say **"give answers"**. ✅
 
 ---
 
-If you want:
 
-✅ **PDF format**
-✅ **Answers**
-✅ **More advanced questions**
-
-Just say **"Give PDF + Answers"** 😊
